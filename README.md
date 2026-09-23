@@ -40,7 +40,7 @@ The circuit works on the rule of **light-controlled resistance**. When light shi
 ![Simulation circuit](IMG-20260923-WA0002.jpg)
 
 #### 3. Breadboard Physical Component Wiring
-![Physical circuit board](Physical%20circuit%20board.jpeg)
+![Physical circuit board](IMG-20260921-WA0012(1).jpg)
 
 #### 4. Completed Custom Model House Setup
 ![Finished project](Finished%20project.jpeg)
