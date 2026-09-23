@@ -32,6 +32,15 @@ The circuit works on the rule of **light-controlled resistance**. When light shi
 * **Use real appliances:** Add a relay module so this low-power circuit can safely control a real, full-sized house light bulb.
 * **Go solar:** Swap the 9V battery for a rechargeable battery and a small solar panel on the roof of the model house.
 ### Project Images
+
 #### 1. Hardware Schematic Circuit Diagram
 ![Schematics](Schematics.jpeg)
 
+#### 2. Tinkercad Virtual Simulation Test
+![Simulation circuit](Simulation%20circuit.jpeg)
+
+#### 3. Breadboard Physical Component Wiring
+![Physical circuit board](Physical%20circuit%20board.jpeg)
+
+#### 4. Completed Custom Model House Setup
+![Finished project](Finished%20project.jpeg)
