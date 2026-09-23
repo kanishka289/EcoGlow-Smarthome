@@ -37,7 +37,7 @@ The circuit works on the rule of **light-controlled resistance**. When light shi
 ![Schematics](IMG-20260923-WA0001.jpg)
 
 #### 2. Tinkercad Virtual Simulation Test
-![Simulation circuit](Simulation%20circuit.jpeg)
+![Simulation circuit](IMG-20260923-WA0002.jpg)
 
 #### 3. Breadboard Physical Component Wiring
 ![Physical circuit board](Physical%20circuit%20board.jpeg)
