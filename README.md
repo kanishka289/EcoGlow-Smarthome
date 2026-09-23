@@ -34,7 +34,7 @@ The circuit works on the rule of **light-controlled resistance**. When light shi
 ### Project Images
 
 #### 1. Hardware Schematic Circuit Diagram
-![Schematics](Schematics.jpeg)
+![Schematics](IMG-20260923-WA0001.jpg)
 
 #### 2. Tinkercad Virtual Simulation Test
 ![Simulation circuit](Simulation%20circuit.jpeg)
