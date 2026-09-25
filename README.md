@@ -44,3 +44,4 @@ The circuit works on the rule of **light-controlled resistance**. When light shi
 
 #### 4. Completed Custom Model House Setup
 ![Finished project](Finished%20project.jpeg)
+
